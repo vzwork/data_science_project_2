@@ -18,7 +18,7 @@ Season costs adjustment:
 - Summer: 40%
 - Fall:   20%
 
-Loss of business is calculated by one night stand and one cleaning
+Loss of business is calculated by one night stay and one cleaning
 
 The budget for development of the model is $400,000
 
